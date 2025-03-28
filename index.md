@@ -177,6 +177,6 @@ The content of DSC 95 has evolved over the years, thanks to the contributions of
 - Marina Langlois, who designed and ran DSC 95 for many quarters, much of the content here was developed by her.
 - Suraj Rampure, who made significant improvements to the course.
 - Colin Jemmott, who also contributed to the course’s development.
-We extend our gratitude to all those who have played a role in shaping this course into what it is today.
 
----
+
+We extend our gratitude to all those who have played a role in shaping this course into what it is today.

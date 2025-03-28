@@ -5,4 +5,4 @@ pronouns: she/her
 email: k2feng@ucsd.edu
 photo: ../assets/staff-images/kate.jpg
 ---
-**Classes tutored**: DSC 10, 20
+**Classes tutored**: DSC 10
