@@ -1,0 +1,13 @@
+$link-color: #0066cc;
+$nav-width: 216px;
+$content-width: 600px;
+
+details {
+  @extend .mb-4;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+
+  width: 100%;
+}
