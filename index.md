@@ -15,7 +15,7 @@ nav_order: 1
 <span style="display:block; margin-top:-10px;"></span>
 
 {: .mb-3 }
-**Class**: Wednesdays, 2-2:50PM, [Warren Lecture Hall](https://maps.app.goo.gl/ag5NQ3uhegvQBEN86) 2207
+**Class**: Mondays, 10-10:50AM, [Warren Lecture Hall](https://maps.app.goo.gl/ag5NQ3uhegvQBEN86) 2112
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 ---
@@ -51,9 +51,9 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
     </thead>
     <tbody>
         <tr>
-            <td>1<br><small>April 3rd</small></td>
+            <td>1<br><small>March 31st</small></td>
             <td>
-            <a href="https://docs.google.com/presentation/d/1FOISQlzuok6CbrScyqAJNtgdHLiZfUBpK0gfYiYIUK8/edit#slide=id.g229be4e47bd_0_73">Introduction, Responsibilities, Imposter Syndrome</a>
+            <a href="https://docs.google.com/presentation/d/1i1_IJlBDzRQNq86K41c2WwwCiOfVkzAX/edit?slide=id.p1#slide=id.p1">Introduction, Responsibilities</a>
             </td>
             <td>
             Read:
@@ -62,96 +62,37 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
                 <li><a href="https://cs375.github.io/su22/resources/talc.pdf">The Tao of TALC</a>. This guide describes how to effectively run large-scale office hours that are not unlike our DSC office hours, especially when things get busy. Not everything will directly apply, especially in more theoretical courses, but it's still useful to read.</li>
             </ul>
             <br>
-            Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScYerwK_yed3SGFyAjhD6XIwdZnqsfFoSUr1exHWCjjcjIGtg/viewform">Welcome Survey</a> by <b><span style="color: green">✅ Tuesday, April 9th</span></b>.
+            Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScYerwK_yed3SGFyAjhD6XIwdZnqsfFoSUr1exHWCjjcjIGtg/viewform">Welcome Survey</a> by <b><span style="color: green">✅ Sunday, April 6th</span></b>.
             </td>
         </tr>
         <tr>
-            <td>2<br><small>April 10th</small></td>
+            <td>2<br><small>April 7th</small></td>
             <td>
-            <a href="https://docs.google.com/presentation/d/1PkpQJJmDylQI-kv8WT6MgU0i0l_Get-OpuccbqUWRSg/edit?usp=sharing">Professionalism and Office Hours</a>
+            <a href="https://docs.google.com/presentation/d/1JxaL22JC_25rPtABf93yN89rG6HVVFFzPMTLEmLJmK4/edit#slide=id.g229be4e47bd_0_73">Grading and Professionalism</a>
             </td>
-            <td>Watch <a href="https://www.youtube.com/watch?v=sIv9rz2NTUk">Learning Styles Don't Exist</a>.
-            <br><br>
-            Find an experienced tutor in the class you are tutoring for and “shadow” them (i.e. follow them around and observe them) during their office hours for at least 30 minutes. Preferably choose a time that will be busier, e.g. the day that homework is due. Then, answer reflection questions on <a href="https://www.gradescope.com/courses/759123/assignments/4342181">Gradescope</a> by <b><span style="color: green">✅ Tuesday, April 16th</span></b>.
-            <br><br>
-            Submit at least one question at <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjvrdoq7v3Xgbfr2BZipXmqPNaLxAxYtcFdF3rY2rWGPgFCw/viewform">this Google Form</a> for the experienced tutor panel discussion next week by <b><span style="color: green">✅ Tuesday, April 16th</span></b>. Feel free to ask more than one by submitting the form multiple times.
+            <td><b>HW:</b> Read all assigned readings and finish two assignments <a href="https://dsc95.com/weeks/02/">here</a> by <b><span style="color: green">✅ Sunday, April 13th</span></b>.
             </td>
         </tr>
         <tr>
-            <td>3<br><small>April 17th</small></td>
+            <td>8<br><small>May 19th</small></td>
             <td>
-            Experienced Tutor Panel<br><small>Featuring Benjamin Chen, Muchan Li, Harshi Saha, Anastasiya Markova, and Jessica Song</small>
+            <a href="https://docs.google.com/presentation/d/15HhQ4TWI8vDPjEHbw82MU189YGatPm6I2_J5bscwYSk/edit#slide=id.g229be4e47bd_0_73">Academic Integrity</a>
             </td>
-            <td></td>
+            <td><b>HW:</b> Read all assigned readings and finish the assignment <a href="https://dsc95.com/weeks/08/">here</a> by <b><span style="color: green">✅ Sunday, May 25th</span></b>.
+            </td>
         </tr>
         <tr>
-            <td>4<br><small>April 24th</small></td>
+            <td>9<br><small>May 26th</small></td>
             <td>
-            <a href="https://docs.google.com/presentation/d/1g_qDYUOcBmMVuwnWHcG4O6s4YcMlzobSLqMLWta9VWE/edit?usp=sharing">Final Project Brainstorming, Productivity Tips, Grading</a>
+            No Slides
             </td>
-            <td><b>New</b>: Read the three readings and complete the sample grading assignment <a href="grading">here</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>.<br><br>Read the entire description and complete the <a href="final-project#first-checkpoint-due-tuesday-april-30th">first checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>. Note that this involves scheduling a meeting with your assigned tutor – you can't leave this until the last minute!</td>
-        </tr>
-        <tr>
-            <td>5<br><small>May 1st</small></td>
-            <td>
-            <a href="https://docs.google.com/presentation/d/1LqQ55uf8b7WOBVsccvRaaC_qLryH84QTVW14dj8S0zE/edit#slide=id.g229be4e47bd_0_73">Growth vs. Fixed Mindset, Scenarios, Reflection
-</a>
+            <td><b>HW:</b> Complete the final assignment <a href="https://dsc95.com/final-assignment/">here</a> by <b><span style="color: green">✅ Sunday, June 1st</span></b>.
             </td>
-            <td>Read <a href="https://www.jessestommel.com/why-i-dont-grade/">Why I Don't Grade</a> and <a href="https://cteresources.bc.edu/documentation/learning-objectives/">Learning Objectives</a>.</td>
-        </tr>
-        <tr>
-            <td>6<br><small>May 8th</small></td>
-            <td>
-            Academic Integrity<br><small>Featuring Tricia Bertram-Gallant, the director of the AI Office</small>
-            </td>
-            <td>Submit the <a href="final-project#second-checkpoint-due-tuesday-may-14th">second checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
-        </tr>
-        <tr>
-            <td>7<br><small>May 15th</small></td>
-            <td>
-            <a href="https://docs.google.com/presentation/d/1dXzYmIF5DsPhjoKnL2U6Q_axYKRxMANEHFj1els967M/edit?usp=sharing">Project Advice, Reflection, Scenarios</a>
-            </td>
-            <td>Submit the <a href="final-project#third-checkpoint-due-tuesday-may-21st">third checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 21st</span></b>.</td>
-        </tr>
-        <tr>
-            <td>8<br><small>May 22nd</small></td>
-            <td>
-            <a href="https://docs.google.com/presentation/d/1aprVBJOUnYA5_XFMvgT2yhJjR5qHdtbg388GqzWAZsw/edit?usp=sharing">Project Feedback, Structural Factors</a>
-            </td>
-            <td>While not strictly required, plan to send a draft of your <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> to your assigned tutor this week to get feedback.</td>
-        </tr>
-        <tr>
-            <td>9<br><small>May 29th</small></td>
-            <td>
-            <a href="https://docs.google.com/presentation/d/1xkTg3W80dKnrqDjAaTLRA3T_9i-peXYLkBJ0jOO4AMM/edit?usp=sharing">More Structural Factors, Writing</a>
-            </td>
-            <td>Submit the <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> by <b><span style="color: green">✅ Tuesday, June 4th</span></b> to <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScD4Na6WiCNhRaMGFgAtZcia5UEr792cXA6eUDtKPDKDXbFXA/viewform">this Google Form</a></b>.</td>
-        </tr>
-        <tr>
-            <td>10<br><small>June 5th</small></td>
-            <td>
-            <a href="https://docs.google.com/presentation/d/1YPbn3whtI3t-epK3P7_0AkGOwA6jwA0hdeqQmXtm3x4/edit?usp=sharing">Conclusion</a>
-            </td>
-            <td>Fill out <a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> + the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwt1TvwWL9T_sqoj8lSp24s1uMmpi_K7vAwqeOEcyK-O_sZg/viewform">End-of-Quarter Survey</a> by Saturday at 8AM.</td>
         </tr>
     </tbody>
 </table>
 
-
-<!-- | Week | Class | Discussion Topic | Homework | Project |
-| --- | --- | --- | --- | --- |
-| 1 | Wednesday, April 3rd | Introduction, Responsibilities, Imposter Syndrome | Homework 1 (due Sunday, April 7th) | |
-| 2 | Wednesday, April 10th | [Structural Factors, Growth vs. Fixed Mindset](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
-| 3 | Wednesday, April 17th | [Office Hours, Professionalism, Grading](weeks/03) | Homework 3 (due Sunday, April 23rd) |  |
-| 4 | Wednesday, April 24th | Experienced Tutor Panel | | |
-| 5 | Wednesday, May 1st | [Productivity Tips, Final Project Brainstorming, Grading](weeks/05) | Homework 4 (due Sunday, May 7th) | Instructions released |
-| 6 | Wednesday, May 8th |  [Reflection](weeks/06) | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
-| 7 | Wednesday, May 15th | [Project Feedback](weeks/07) | |
-| 8 | Wednesday, May 22nd | [Writing, Academic Integrity, Learning Theory](weeks/08) | | Second draft due Sunday, May 28th |
-| 9 | Wednesday, May 29th |  | | Final Project due Sunday, June 4th at 12PM |
-| 10 | Wednesday, June 5th | [Learning Theory, Conclusion](weeks/10) | | [CAPEs](https://cape.ucsd.edu) + [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScJcBYOsIvoRxHDqLCXolS1GmKvag-UVksNMSi8b_nh0oEZxA/viewform) due Saturday, June 10th at 8AM |  -->
-
-For discussion, we will use Slack, and you will submit any assignments (that aren't Google Forms) to Gradescope. Let Suraj know if you can't access one of those platforms.
+For discussion, we will use Slack, and you will submit any assignments (that aren't Google Forms) to Gradescope. Let Janine know if you can't access one of those platforms.
 
 ---
 
@@ -177,11 +118,11 @@ _Remember that [dsc-courses.github.io](https://dsc-courses.github.io) contains l
 
 DSC 95 is graded P/NP. There are three things you need to do to pass:
 
-1. **Attend and participate** in all DSC 95 class sessions (Wednesdays at 2PM in Warren Lecture Hall 2207).
+1. **Attend and participate** in all DSC 95 class sessions (Mondays at 10AM in Warren Lecture Hall 2112).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
-    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Suraj know in advance on Slack.
+    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Janine know in advance on Slack.
         - Note that lecture attendance for the class you're tutoring for is _not_ a requirement of DSC 95; your instructor may still require you to attend as part of your paid tutor duties.
-1. **Complete weekly readings and homework assignments**, usually due on Tuesdays at 11:59PM.
+1. **Complete weekly readings and homework assignments**, usually due on Sundays at 11:59PM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
     - Responses are graded on a 2/1/0 scale:
         - 2: Thoughtful and complete.
@@ -229,6 +170,13 @@ On a related note, as a tutor, you should only help students in your course thro
 
 ## Acknowledgements
 
-DSC 95 was designed and run by Marina Langlois for many quarters, so much of what you see here was originally developed by her. When designing this quarter's offering of DSC 95, I also referred to CSE 95 taught by Mia Minnes and [CS 375](https://cs375.github.io/su22/) taught by Victor Huang at Berkeley, as well as the improvements made by both Colin Jemmott (Winter 2024) and Marina Langlois (Fall 2023).
+The content of DSC 95 has evolved over the years, thanks to the contributions of many individuals. Special recognition goes to:
+
+- Christine Alvarado and Mia Minnes (CSE Department), who originally developed content through CSE 95.
+- Victor Huang, whose work in CS 375 at Berkeley served as an inspiration.
+- Marina Langlois, who designed and ran DSC 95 for many quarters, much of the content here was developed by her.
+- Suraj Rampure, who made significant improvements to the course.
+- Colin Jemmott, who also contributed to the course’s development.
+We extend our gratitude to all those who have played a role in shaping this course into what it is today.
 
 ---
