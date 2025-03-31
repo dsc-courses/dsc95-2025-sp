@@ -5,4 +5,4 @@ pronouns: she/her
 email: anmarkova@ucsd.edu
 photo: assets/staff-images/anastasiya.png
 ---
-**Classes tutored**: DSC 10, 20, 95
+**Classes tutored**: DSC 10, 20, 95, 106, 190
