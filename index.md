@@ -51,14 +51,14 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
         <tr>
             <td>1<br><small>March 31st</small></td>
             <td>
-            <a href="">Introduction, Responsibilities</a>
+            <a href="https://dsc95.com/resources/Lecture1.pdf">Introduction, Responsibilities</a>
             </td>
             <td>
             Read:
             <ul>
                 <li><a href="https://docs.google.com/document/d/1jgEJFTKiP3IVh38bJB9qaL0GDqSS5HGqgfWSxPERvaw/edit?tab=t.0#heading=h.vtkveycacq9r">So You Think You Can TA by John Kotker</a>. This guide was written with TAs who run discussion sections in mind, but many of the tips (e.g. following up with students when you don't know something, bending down or sitting in a chair to maintain eye-level contact with them) are relevant in office hours too.</li>
-                <li><a href="https://dsc-courses.github.io/dsc95-2025-sp/resources/Student_Responses.pdf">Student responses on good teaching.</a> You've been a student before, and you know the difference between good instruction and poor instruction. This guide compiles many student responses on the subject of good teaching. Keep these points in mind throughout the quarter.</li>
-                <li><a href="https://dsc-courses.github.io/dsc95-2025-sp/resources/Teaching_Hints.pdf">Teaching hints</a>. This guide comes from the TA training course in the CSE department. It has some useful hints for effective teaching.</li>
+                <li><a href="https://dsc95.com/resources/Student_Responses.pdf">Student responses on good teaching.</a> You've been a student before, and you know the difference between good instruction and poor instruction. This guide compiles many student responses on the subject of good teaching. Keep these points in mind throughout the quarter.</li>
+                <li><a href="https://dsc95.com/resources/Teaching_Hints.pdf">Teaching hints</a>. This guide comes from the TA training course in the CSE department. It has some useful hints for effective teaching.</li>
             </ul>
             <br>
             Read the three readings linked above and complete the <a href="">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
