@@ -37,8 +37,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
         <col style="width: 2%" />
         <col style="width: 2%" />
         <col style="width: 20%" />
-        <col style="width: 20%" />
-        <col style="width: 63%" />
+        <col style="width: 60%" />
     </colgroup>
     <thead class="header">
         <tr>
