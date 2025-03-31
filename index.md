@@ -43,13 +43,15 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
     <thead class="header">
         <tr>
             <th>Week</th>
-            <th>Class</th>
+	    <th>Date</th>
+            <th>Topic</th>
             <th>Action Items</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>1<br><small>March 31st</small></td>
+            <td>1</td>
+            <td>March 31st</td>
             <td>
             <a href="https://dsc95.com/resources/Lecture1.pdf">Introduction, Responsibilities</a>
             </td>
@@ -61,7 +63,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
                 <li><a href="https://dsc95.com/resources/Teaching_Hints.pdf">Teaching hints</a>. This guide comes from the TA training course in the CSE department. It has some useful hints for effective teaching.</li>
             </ul>
             <br>
-            Read the three readings linked above and complete the <a href="">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
+            Read the three readings linked above and complete the <a href="https://forms.gle/54oZPYVfKR7djkwG7">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
             </td>
         </tr>
 <!--
