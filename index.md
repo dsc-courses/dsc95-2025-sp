@@ -134,7 +134,7 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
 
 ---
 
-### Academic Integrity
+## Academic Integrity
 
 You are expected to adhere to the UC San Diego Integrity of Scholarship Policy. This means that you will complete your work for DSC 95 honestly, with integrity, and also support an environment of integrity within the class you are tutoring. Some examples of specific ways this policy applies to DSC 95 include:
 
