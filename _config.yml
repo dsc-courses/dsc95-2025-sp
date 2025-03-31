@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 95
-description: DSC 95, Spring 2024 at UC San Diego
+description: DSC 95, Spring 2025 at UC San Diego
 tagline: Tutor Apprenticeship in Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc95.com' # the base hostname & protocol for your site, e.g. http://example.com
-author: Suraj Rampure
+author: Janine Tiefenbruck
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

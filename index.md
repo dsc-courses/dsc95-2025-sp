@@ -30,9 +30,7 @@ nav_order: 1
 
 ## Schedule
 
-_**Note**: This is a discussion-heavy course, and it's hard to predict how long some discussions may take. As such, the schedule below is likely to change quite a bit throughout the quarter._
-
-Deadlines will appear with a ✅, and all deadlines are subject to change.
+The schedule below will be updated throughout the quarter. Deadlines will appear with a ✅. Assignments should be submitted to Gradescope. 
 
 <table markdown="1">
     <colgroup>
@@ -53,7 +51,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>1<br><small>March 31st</small></td>
             <td>
-            <a href="https://docs.google.com/presentation/d/1i1_IJlBDzRQNq86K41c2WwwCiOfVkzAX/edit?slide=id.p1#slide=id.p1">Introduction, Responsibilities</a>
+            <a href="">Introduction, Responsibilities</a>
             </td>
             <td>
             Read:
@@ -62,9 +60,10 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
                 <li><a href="https://cs375.github.io/su22/resources/talc.pdf">The Tao of TALC</a>. This guide describes how to effectively run large-scale office hours that are not unlike our DSC office hours, especially when things get busy. Not everything will directly apply, especially in more theoretical courses, but it's still useful to read.</li>
             </ul>
             <br>
-            Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScYerwK_yed3SGFyAjhD6XIwdZnqsfFoSUr1exHWCjjcjIGtg/viewform">Welcome Survey</a> by <b><span style="color: green">✅ Sunday, April 6th</span></b>.
+            Complete the <a href="">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
             </td>
         </tr>
+<!--
         <tr>
             <td>2<br><small>April 7th</small></td>
             <td>
@@ -89,10 +88,9 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
             <td><b>HW:</b> Complete the final assignment <a href="https://dsc95.com/final-assignment/">here</a> by <b><span style="color: green">✅ Sunday, June 1st</span></b>.
             </td>
         </tr>
+-->
     </tbody>
 </table>
-
-For discussion, we will use Slack, and you will submit any assignments (that aren't Google Forms) to Gradescope. Let Janine know if you can't access one of those platforms.
 
 ---
 
@@ -104,13 +102,13 @@ Note that the class is **not** lecture based. We tell our students that the best
 
 > _There is exactly one goal in this class, and that is to get you to think very carefully about your teaching, to consider different scenarios that might arise (and how to deal with them), and to get you to genuinely enjoy teaching! (Okay, that was actually three goals, but they're basically the same thing in my mind.) - [Victor Huang, CS 375 @ Berkeley](https://cs375.github.io/su22/about.html)_
 
+We will communicate with each other through Slack. Reach out to the instructor if you need an invitation.
+
 ---
 
 ## People
 
 {{ site.staffers }}
-
-_Remember that [dsc-courses.github.io](https://dsc-courses.github.io) contains links to course websites of several DSC courses._
 
 ---
 
@@ -120,28 +118,31 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
 
 1. **Attend and participate** in all DSC 95 class sessions (Mondays at 10AM in Warren Lecture Hall 2112).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
-    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Janine know in advance on Slack.
-        - Note that lecture attendance for the class you're tutoring for is _not_ a requirement of DSC 95; your instructor may still require you to attend as part of your paid tutor duties.
-1. **Complete weekly readings and homework assignments**, usually due on Sundays at 11:59PM.
+    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.     - You can miss at most one class session and still pass.
+1. **Complete weekly readings and homework assignments**, usually due on Fridays at 11:59PM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
-    - Responses are graded on a 2/1/0 scale:
-        - 2: Thoughtful and complete.
-        - 1: Lack of effort.
+    - Responses are graded on a 0-1-2 scale:
         - 0: Not submitted.
-    - Since the readings and homeworks are short (~1 hour per week), there are no slip days or extensions. We need your responses in no later than Tuesday night so that we can plan the next day's class session. 
-    - You can miss at most 1 weekly assignment and still pass.
-1. **Complete a satisfactory Final Project**.
-    - The Final Project in DSC 95 involves creating a video that will benefit students in the course you're tutoring.
-    - Not only will your Final Project be given to your class' instructor, but it'll also be part of the "DSC 95 Project Showcase" for future DSC 95 students to see!
-    - There will be multiple checkpoints to help you plan. More details to come.
+        - 1: Lack of effort.
+        - 2: Thoughtful and complete.
+    - Since the readings and homeworks are short (~1 hour per week), there are no slip days or extensions. We need your responses in on time so that we can plan the next class session. 
+    - You can miss at most one weekly assignment and still pass.
+1. **Complete a satisfactory Final Assignment**.
+    - The Final Assignment will involve reflection on your quarter as a tutor.
+    - More details to come.
 
-<!-- ### Academic Integrity
+---
 
-In this course we expect students to adhere to the UC San Diego Integrity of Scholarship Policy. This means that you will complete your work honestly, with integrity, and support and environment of integrity within the class for which you are tutoring. Some examples of specific ways this policy applies to DSC 95 include:
-Honesty about attendance (including punctuality, and illness) in class
-Completion of pre-class assignments individually and on-time
-Encouraging honest work among the students in the class for which you are tutoring
-Reporting suspected instances of academic dishonesty in this class, as well as in the class you are tutoring, to the instructor right away. -->
+### Academic Integrity
+
+You are expected to adhere to the UC San Diego Integrity of Scholarship Policy. This means that you will complete your work for DSC 95 honestly, with integrity, and also support an environment of integrity within the class you are tutoring. Some examples of specific ways this policy applies to DSC 95 include:
+
+- Honesty about attendance (including punctuality, and illness) in class
+- Completion of assignments individually and on-time
+- Encouraging honest work among the students in the class for which you are tutoring
+- Reporting suspected instances of academic dishonesty in this class, as well as in the class you are tutoring. 
+
+As tutors, you are role models for students. Teach and show them how to act with integrity!
 
 ---
 
@@ -172,11 +173,8 @@ On a related note, as a tutor, you should only help students in your course thro
 
 The content of DSC 95 has evolved over the years, thanks to the contributions of many individuals. Special recognition goes to:
 
-- Christine Alvarado and Mia Minnes (CSE Department), who originally developed content through CSE 95.
-- Victor Huang, whose work in CS 375 at Berkeley served as an inspiration.
-- Marina Langlois, who designed and ran DSC 95 for many quarters, much of the content here was developed by her.
+- Marina Langlois, who designed and ran DSC 95 for many quarters.
 - Suraj Rampure, who made significant improvements to the course.
-- Colin Jemmott, who also contributed to the course’s development.
-
+- Christine Alvarado and Mia Minnes (CSE Department), who originally developed content through CSE 95.
 
 We extend our gratitude to all those who have played a role in shaping this course into what it is today.
