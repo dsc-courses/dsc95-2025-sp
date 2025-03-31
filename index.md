@@ -30,7 +30,7 @@ nav_order: 1
 
 ## Schedule
 
-The schedule below will be updated throughout the quarter. Deadlines will appear with a ✅. Assignments should be submitted to Gradescope. 
+The schedule below will be updated throughout the quarter. Deadlines will appear with a ✅. Assignments that aren't Google Forms should be submitted to Gradescope. 
 
 <table markdown="1">
     <colgroup>
@@ -120,7 +120,7 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
 
 1. **Attend and participate** in all DSC 95 class sessions (Mondays at 10AM in Warren Lecture Hall 2112).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
-    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.     - You can miss at most one class session and still pass.
+    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.        - You can miss at most one class session and still pass.
 1. **Complete weekly readings and homework assignments**, usually due on Fridays at 11:59PM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
     - Responses are graded on a 0-1-2 scale:
@@ -139,9 +139,9 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
 
 You are expected to adhere to the UC San Diego Integrity of Scholarship Policy. This means that you will complete your work for DSC 95 honestly, with integrity, and also support an environment of integrity within the class you are tutoring. Some examples of specific ways this policy applies to DSC 95 include:
 
-- Honesty about attendance (including punctuality, and illness) in class
-- Completion of assignments individually and on-time
-- Encouraging honest work among the students in the class for which you are tutoring
+- Honesty about attendance in class (including punctuality and illness).
+- Completion of assignments individually and on-time.
+- Encouraging honest work among the students in the class for which you are tutoring.
 - Reporting suspected instances of academic dishonesty in this class, as well as in the class you are tutoring. 
 
 As tutors, you are role models for students. Teach and show them how to act with integrity!
