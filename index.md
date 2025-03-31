@@ -35,9 +35,9 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
 <table markdown="1">
     <colgroup>
         <col style="width: 2%" />
-        <col style="width: 35%" />
-        <col style="width: 63%" />
-        <col style="width: 63%" />
+        <col style="width: 2%" />
+        <col style="width: 20%" />
+        <col style="width: 20%" />
         <col style="width: 63%" />
     </colgroup>
     <thead class="header">
