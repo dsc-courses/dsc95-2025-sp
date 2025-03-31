@@ -56,11 +56,12 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             <td>
             Read:
             <ul>
-                <li><a href="https://docs.google.com/document/d/15roVBW_Tj3o-qvzt77lvcDmdly0WaZ6GRP_bRh61qAE/edit">So You Think You Can TA by John Kohler</a>. This guide was written with TAs who run discussion sections in mind, but many of the tips (e.g. following up with students when you don't know something, bending down or sitting in a chair to maintain eye-level contact with them) are relevant in office hours too.</li>
-                <li><a href="https://cs375.github.io/su22/resources/talc.pdf">The Tao of TALC</a>. This guide describes how to effectively run large-scale office hours that are not unlike our DSC office hours, especially when things get busy. Not everything will directly apply, especially in more theoretical courses, but it's still useful to read.</li>
+                <li><a href="https://docs.google.com/document/d/1jgEJFTKiP3IVh38bJB9qaL0GDqSS5HGqgfWSxPERvaw/edit?tab=t.0#heading=h.vtkveycacq9r">So You Think You Can TA by John Kohler</a>. This guide was written with TAs who run discussion sections in mind, but many of the tips (e.g. following up with students when you don't know something, bending down or sitting in a chair to maintain eye-level contact with them) are relevant in office hours too.</li>
+                <li><[Student responses on what makes a good TA or tutor.](./resources/Student_Responses.pdf) You've been a student before, and you know the difference between good instruction and poor intstruction. This guide compiles many student responses on the subject of good teaching. Keep these points in mind throughout the quarter.</li>
+                <li><a href="">Teaching hints</a>. This guide comes from the TA training course in the CSE department. It has some useful hints for effective teaching.</li>
             </ul>
             <br>
-            Complete the <a href="">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
+            Read the three readings linked above and complete the <a href="">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
             </td>
         </tr>
 <!--
