@@ -75,10 +75,20 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             Next week, we will have a panel of experienced tutors. Think of some thoughtful questions you want to ask them. 
 	    <br>
 	    <br>
-	    During Week 3, you will need to shadow an experienced tutor for your course during 1 hour of their office hours. This week, make a plan for who you will shadow and when. Ask the tutor if you can shadow them at this time.
+	    During Week 3, you will need to shadow an experienced tutor for your course during one hour of their office hours. This week, make a plan for who you will shadow and when. Ask the tutor if you can shadow them at this time.
 	    <br>
 	    <br>
             Submit your questions for the tutor panel on <a href="https://forms.gle/vzuTiZDxo3JnkeeP7">this form</a> by <b><span style="color: green">✅ Friday, April 11th at 11:59PM</span></b>.
+            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>April 14th</td>
+            <td>
+            Experienced Tutor Panel
+            </td>
+            <td>
+            Shadow an experienced tutor for your course during one hour of their office hours. Then submit a <a href="https://www.gradescope.com/courses/1013313">reflection on Gradescope</a> by <b><span style="color: green">✅ Friday, April 18th at 11:59PM</span></b>.
             </td>
         </tr>
 <!--
