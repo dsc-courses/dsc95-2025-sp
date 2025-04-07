@@ -65,15 +65,21 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             Read the three readings linked above and complete the <a href="https://forms.gle/54oZPYVfKR7djkwG7">Welcome Survey</a> by <b><span style="color: green">✅ Friday, April 4th at 11:59PM</span></b>.
             </td>
         </tr>
-<!--
         <tr>
-            <td>2<br><small>April 7th</small></td>
+            <td>2</td>
+            <td>April 7th</td>
             <td>
-            <a href="https://docs.google.com/presentation/d/1JxaL22JC_25rPtABf93yN89rG6HVVFFzPMTLEmLJmK4/edit#slide=id.g229be4e47bd_0_73">Grading and Professionalism</a>
+            <a href="https://dsc95.com/resources/Lecture2.pdf">Impostor Syndrome, Office Hours</a>
             </td>
-            <td><b>HW:</b> Read all assigned readings and finish two assignments <a href="https://dsc95.com/weeks/02/">here</a> by <b><span style="color: green">✅ Sunday, April 13th</span></b>.
+            <td>
+            Next week, we will have a panel of experienced tutors. Think of some thoughtful questions you want to ask them. 
+	    <br>
+	    During Week 3, you will need to shadow an experienced tutor for your course during 1 hour of their office hours. This week, make a plan for who you will shadow and when. Ask the tutor if you can shadow them at this time.
+	    <br>
+            Submit your questions for the tutor panel on <a href="https://forms.gle/vzuTiZDxo3JnkeeP7">this form</a> by <b><span style="color: green">✅ Friday, April 11th at 11:59PM</span></b>.
             </td>
         </tr>
+<!--
         <tr>
             <td>8<br><small>May 19th</small></td>
             <td>
