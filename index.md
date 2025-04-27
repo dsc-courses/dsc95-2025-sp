@@ -108,7 +108,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             <a href="https://dsc95.com/resources/Lecture5.pdf">Grading</a>
             </td>
             <td>
-            This week, you'll host the small group session that you planned last week and write a reflection on it. You'll also grade some sample questions from DSC 20 and DSC 40A. The reflecting and grading practice are in a single <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> which you should complete <b><span style="color: green">✅ Friday, May 2nd at 11:59PM</span></b>.
+            This week, you'll host the small group session that you planned last week and write a reflection on it. You'll also grade some sample questions from DSC 20 and DSC 40A. The reflection and grading practice are in a single <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> which you should complete by <b><span style="color: green">✅ Friday, May 2nd at 11:59PM</span></b>.
             </td>
         </tr>
 <!--
