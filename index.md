@@ -92,13 +92,23 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             </td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td>April 21st</td>
             <td>
             <a href="https://dsc95.com/resources/Lecture4.pdf">Professionalism, Time Management, Discussion Forums</a>
             </td>
             <td>
             This week and next, you'll work on an activity to experiment with different techniques for explaining concepts. <a href="https://docs.google.com/document/d/1a5ktvngo3mj3-IRTfcNgMkgWl9XrOUJpi34uaDEO6Hs/edit?tab=t.0">Read the assignment prompt</a>, then answer the planning <a href="https://www.gradescope.com/courses/1013313">questions on Gradescope</a> by <b><span style="color: green">✅ Friday, April 25th at 11:59PM</span></b>.
+            </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>April 28th</td>
+            <td>
+            <a href="https://dsc95.com/resources/Lecture5.pdf">Grading</a>
+            </td>
+            <td>
+            This week, you'll host the small group session that you planned last week and write a reflection on it. You'll also grade some sample questions from DSC 20 and DSC 40A. The reflecting and grading practice are in a single <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> which you should complete <b><span style="color: green">✅ Friday, May 2nd at 11:59PM</span></b>.
             </td>
         </tr>
 <!--
