@@ -123,7 +123,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             <ul>
                 <li>Read the New York Times article <a href="https://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html">Who Gets to Graduate?</a> If that link doesn't work, use this <a href="https://dsc-courses.github.io/dsc95-2023-sp/resources/who-graduates/">backup link</a>.</li>
                 <li>Watch <a href="https://youtu.be/hiiEeMN7vbQ?si=FaBr6TRfelzHZWFL">Developing a Growth Mindset with Carol Dweck.</a></li>
-                <li>Take an <a href="https://implicit.harvard.edu/implicit/takeatest.html">Implicit Association Test.</li> You need to take a screenshot at a specific part of the test - see the Gradescope assignment for more details.
+                <li>Take an <a href="https://implicit.harvard.edu/implicit/takeatest.html">Implicit Association Test.</a> You need to take a screenshot at a specific part of the test - see the Gradescope assignment for more details.</li> 
             </ul>
             <br>
 
