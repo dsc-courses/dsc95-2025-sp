@@ -116,7 +116,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             <td>6</td>
             <td>May 5th</td>
             <td>
-            <a href="https://dsc95.com/resources/Lecture5.pdf">Grading</a>
+            <a href="https://dsc95.com/resources/Lecture6.pdf">Structural Factors, Growth Mindset</a>
             </td>
             <td>
             This week:
