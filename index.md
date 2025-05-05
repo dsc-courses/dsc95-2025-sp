@@ -111,6 +111,25 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             This week, you'll host the small group session that you planned last week and write a reflection on it. You'll also grade some sample questions from DSC 20 and DSC 40A. The reflection and grading practice are in a single <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> which you should complete by <b><span style="color: green">✅ Friday, May 2nd at 11:59PM</span></b>.
             </td>
         </tr>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>May 5th</td>
+            <td>
+            <a href="https://dsc95.com/resources/Lecture5.pdf">Grading</a>
+            </td>
+            <td>
+            This week:
+            <ul>
+                <li>Read the New York Times article <a href="https://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html">Who Gets to Graduate?</a> If that link doesn't work, use this <a href="https://dsc-courses.github.io/dsc95-2023-sp/resources/who-graduates/">backup link</a>.</li>
+                <li>Watch <a href="https://youtu.be/hiiEeMN7vbQ?si=FaBr6TRfelzHZWFL">Developing a Growth Mindset with Carol Dweck.</a></li>
+                <li>Take an <a href="https://implicit.harvard.edu/implicit/takeatest.html">Implicit Association Test.</li> You need to take a screenshot at a specific part of the test - see the Gradescope assignment for more details.
+            </ul>
+            <br>
+
+            Complete the three items above and submit a related <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> by <b><span style="color: green">✅ Friday, May 9th at 11:59PM</span></b>.
+            </td>
+        </tr>
 <!--
         <tr>
             <td>8<br><small>May 19th</small></td>
