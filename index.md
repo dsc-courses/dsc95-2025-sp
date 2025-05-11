@@ -130,24 +130,20 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             Complete the three items above and submit a related <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> by <b><span style="color: green">✅ Friday, May 9th at 11:59PM</span></b>.
             </td>
         </tr>
-<!--
         <tr>
-            <td>8<br><small>May 19th</small></td>
+            <td>7</td>
+            <td>May 12th</td>
             <td>
-            <a href="https://docs.google.com/presentation/d/15HhQ4TWI8vDPjEHbw82MU189YGatPm6I2_J5bscwYSk/edit#slide=id.g229be4e47bd_0_73">Academic Integrity</a>
+            <a href="https://dsc95.com/resources/Lecture7.pdf">Academic Integrity, Learning Theory</a>
             </td>
-            <td><b>HW:</b> Read all assigned readings and finish the assignment <a href="https://dsc95.com/weeks/08/">here</a> by <b><span style="color: green">✅ Sunday, May 25th</span></b>.
+            <td>
+            Read <a href="https://ucsdguardian.org/2019/05/01/opinion-lax-academic-integrity-policies-lets-students-freely-cheat-system/">this opinion piece from The Guardian</a>.
+              <br>
+
+            Submit a <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> about academic integrity and complete a <a href="https://forms.gle/y8gttbpcUC3291tE6">reflection</a> on your experiences as a tutor by <b><span style="color: green">✅ Friday, May 16th at 11:59PM</span></b>.
             </td>
         </tr>
-        <tr>
-            <td>9<br><small>May 26th</small></td>
-            <td>
-            No Slides
-            </td>
-            <td><b>HW:</b> Complete the final assignment <a href="https://dsc95.com/final-assignment/">here</a> by <b><span style="color: green">✅ Sunday, June 1st</span></b>.
-            </td>
-        </tr>
--->
+
     </tbody>
 </table>
 
