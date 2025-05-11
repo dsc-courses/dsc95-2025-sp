@@ -137,10 +137,7 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             <a href="https://dsc95.com/resources/Lecture7.pdf">Academic Integrity, Learning Theory</a>
             </td>
             <td>
-            Read <a href="https://ucsdguardian.org/2019/05/01/opinion-lax-academic-integrity-policies-lets-students-freely-cheat-system/">this opinion piece from The Guardian</a>.
-              <br>
-
-            Submit a <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> about academic integrity and complete a <a href="https://forms.gle/y8gttbpcUC3291tE6">reflection</a> on your experiences as a tutor by <b><span style="color: green">✅ Friday, May 16th at 11:59PM</span></b>.
+            Read <a href="https://ucsdguardian.org/2019/05/01/opinion-lax-academic-integrity-policies-lets-students-freely-cheat-system/">this opinion piece from The Guardian</a>. Submit a <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> about academic integrity and complete a <a href="https://forms.gle/y8gttbpcUC3291tE6">reflection</a> on your experiences as a tutor by <b><span style="color: green">✅ Friday, May 16th at 11:59PM</span></b>.
             </td>
         </tr>
 
