@@ -140,6 +140,16 @@ The schedule below will be updated throughout the quarter. Deadlines will appear
             Read <a href="https://ucsdguardian.org/2019/05/01/opinion-lax-academic-integrity-policies-lets-students-freely-cheat-system/">this opinion piece from The Guardian</a>. Submit a <a href="https://www.gradescope.com/courses/1013313">Gradescope assignment</a> about academic integrity and complete a <a href="https://forms.gle/y8gttbpcUC3291tE6">reflection</a> on your experiences as a tutor by <b><span style="color: green">✅ Friday, May 16th at 11:59PM</span></b>.
             </td>
         </tr>
+        <tr>
+            <td>8</td>
+            <td>May 19th</td>
+            <td>
+            <a href="https://dsc95.com/resources/Lecture8.pdf">Reflection</a>
+            </td>
+            <td>
+            Write an elevator pitch and a resume section about your experience as a tutor. Submit both <a href="https://www.gradescope.com/courses/1013313">to Gradescope </a> by <b><span style="color: green">✅ Monday, June 2nd at 11:59PM</span></b>.
+            </td>
+        </tr>
 
     </tbody>
 </table>
